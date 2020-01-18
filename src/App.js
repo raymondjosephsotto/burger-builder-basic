@@ -9,7 +9,7 @@ render(){
    
         <div>
           <Layout>
-            <BurgerBuilder/>
+             <BurgerBuilder/>
           </Layout>
         </div>
    
